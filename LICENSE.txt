@@ -1,0 +1,27 @@
+KEEL — Lifting & Mooring
+Copyright (c) 2026 Volodymyr Gorbachov. All rights reserved.
+Licensor and publisher: DELION SOFTWARE S.R.L., IDNO 1025600018364, str. Negreșteni 9,
+ap. 12, Chișinău MD-2023, Republic of Moldova (www.delionsoft.com), with the author's consent.
+
+1. Licence. KEEL is proprietary software. It is licensed, not sold, free of charge, to the
+   operator of the vessel DP FPV Seahorse, for that vessel's operations only, under the KEEL
+   Software Licence Agreement between DELION SOFTWARE S.R.L. and the operator. Where the
+   Agreement and this notice differ, the Agreement prevails; until it is signed, this notice
+   is the licence.
+2. Permitted copies: installation on the vessel's own workstations, one standby
+   installation, signed updates, and backup and recovery copies.
+3. Not permitted without prior written permission of DELION SOFTWARE S.R.L.: use for any
+   other vessel, site or person; other copies; distribution, publication, sublicensing,
+   rental or sale; modification; reverse engineering, decompilation or disassembly, except
+   where mandatory law allows it; removing this notice or the update-signature checks.
+4. Record-keeping aid only. KEEL is not a certified lifting, mooring, safety or
+   dynamic-positioning system and is not type-approved. Inspection, certification and safe
+   use of equipment remain the duty of the operator, the master and the crew, who check
+   dates and data against the original certificates.
+5. No warranty. KEEL is provided free of charge and "as is", without any warranty, to the
+   extent the law allows. The total liability of DELION SOFTWARE S.R.L. and the author is
+   limited to EUR 1,000 and excludes indirect loss, loss of data, profit or vessel time, to
+   the extent the law allows; nothing limits liability for intent or gross negligence or
+   any liability that cannot be limited by law.
+6. Third-party components are licensed under their own terms: see THIRD_PARTY_NOTICES.txt.
+7. Governing law: the laws of the Republic of Moldova.
